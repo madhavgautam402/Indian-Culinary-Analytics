@@ -1,0 +1,15 @@
+
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+networkx
+pyarrow
+jupyter
+tqdm
+requests
+beautifulsoup4
+rapidfuzz
+openpyxl

@@ -1,0 +1,13 @@
+
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+
+# Raw datasets
+data/raw/
+
+# Temporary files
+*.tmp
+.DS_Store
